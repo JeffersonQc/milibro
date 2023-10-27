@@ -26,7 +26,7 @@ All In (1 de Septiembre de 2018)
 
 Además, esto motivo a que muchas empresas de lucha libre independientes se asocien al proyecto, en función de cooperación y alianzas:
 
-```{Empresas}
+```
 Oriental Wrestling Entertainment
 Consejo Mundial de Lucha Libre
 Ring of Honor
