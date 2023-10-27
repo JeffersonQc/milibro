@@ -12,42 +12,36 @@ kernelspec:
   name: python3
 ---
 
-# Notebooks with MyST Markdown
+# El Nacimiento de All Elite Wrestlingh
 
-Jupyter Book also lets you write text-based notebooks using MyST Markdown.
-See [the Notebooks with MyST Markdown documentation](https://jupyterbook.org/file-types/myst-notebooks.html) for more detailed instructions.
-This page shows off a notebook written in MyST Markdown.
+Su creación se se produjo el 1 de enero de 2019, cuando Cody, The Young Bucks y Hangman Page revelaron oficialmente la empresa en Twitter, que se creó a través de un reloj de cuenta regresiva durante su canal de YouTube Being The Elite, que expiró el Día de Año Nuevo de 2019 a la medianoche, hora del Pacífico, pero The Elite no firmó un contrato. El mismo día, Rhodes y The Young Bucks anunciaron Double or Nothing, el evento inaugural de Llorones de WWE, en su canal de YouTube, Being the Elite. Se celebrará una conferencia de prensa el 8 de enero en Jacksonville, donde se brindará más información sobre la empresa. El 2 de enero de 2019, The Elite oficial firmó con la promoción con Cody y los Young Bucks como sus Vicepresidentes Ejecutivos, y Tony Khan como su Presidente.
 
-## An example cell
+## Evento Inicial
 
-With MyST Markdown, you can define code cells with a directive like so:
+Antes de su creación, ya se habia realizado un evento luchistico que fue pieza inicial para su creación:
 
 ```{code-cell}
-print(2 + 2)
+All In (1 de Septiembre de 2018)
 ```
 
-When your book is built, the contents of any `{code-cell}` blocks will be
-executed with your default Jupyter kernel, and their outputs will be displayed
-in-line with the rest of your content.
-
-```{seealso}
-Jupyter Book uses [Jupytext](https://jupytext.readthedocs.io/en/latest/) to convert text-based files to notebooks, and can support [many other text-based notebook files](https://jupyterbook.org/file-types/jupytext.html).
-```
-
-## Create a notebook with MyST Markdown
-
-MyST Markdown notebooks are defined by two things:
-
-1. YAML metadata that is needed to understand if / how it should convert text files to notebooks (including information about the kernel needed).
-   See the YAML at the top of this page for example.
-2. The presence of `{code-cell}` directives, which will be executed with your book.
-
-That's all that is needed to get started!
-
-## Quickly add YAML metadata for MyST Notebooks
-
-If you have a markdown file and you'd like to quickly add YAML metadata to it, so that Jupyter Book will treat it as a MyST Markdown Notebook, run the following command:
+Además, esto motivo a que muchas empresas de lucha libre independientes se asocien al proyecto, en función de cooperación y alianzas:
 
 ```
-jupyter-book myst init path/to/markdownfile.md
+Oriental Wrestling Entertainment
+Consejo Mundial de Lucha Libre
+Ring of Honor
+New Japan Pro-Wrestling
+Impact Wrestling
+National Wrestling Alliance
+Tokyo Joshi Pro Wrestling
+DDT Pro-Wrestling
+Lucha Libre AAA Worldwide
 ```
+
+## Impacto en televisión
+
+El 19 de septiembre de 2019, el sitio web de TNT enumeró los programas de AEW titulado "All Elite Wrestling: Dynamite", también se programó un evento previo de dos horas para el 1 de octubre a las 8 PM, teniendo una gran acogida por los televidentes.
+
+## Impacto social
+
+CBS Sports describe a AEW como "la primera compañía con un respaldo financiero importante en comenzar a competir con la WWE a un nivel importante en casi dos décadas". A pesar de las buenas críticas de la prensa, luchadores como Mick Foley han dicho que la empresa está cometiendo errores debido a la inexperiencia de muchos de sus jóvenes talentos.
